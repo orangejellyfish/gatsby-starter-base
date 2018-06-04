@@ -11,6 +11,7 @@ might better suit your needs:
 - Bootstrap 4 support via [reactstrap][rs]
 - Unit testing with [Jest][jest] and [Enzyme][enz]
 - Global styling with [Sass][sass]
+- orangejellyfish ESLint configuration
 
 If you have more complex requirements one of our alternative kits, built upon
 this base, might better suit your needs:
